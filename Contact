@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Steven's Personal site</title>
+  </head>
+  <body>
+  <h2>Name</h2>
+    <p>Steve</p>
+  <h2>Number</h2>
+    <p>012933</p>
+  <h2>Address</h2>
+    <p>Address</p>
+    <hr>
+   <form action="mailto:shurt_1@hotmail.co.uk" method="post" enctype="text/plain">
+    <label>Name:</label>
+     <input type="text" name="Yourname">
+     <input type="Submit"><br>
+     <label>Your email</label>
+     <input type="email" name="Youremail"><br>
+     <label>Your Message</label>
+     <textarea name="yourmessage" rows="10" cols="30"></textarea> <br>
+     <label>Sign up</label>
+     <input type="checkbox"><br>
+   </form>
+  <body/>
+  </html>
